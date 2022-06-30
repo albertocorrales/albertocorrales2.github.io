@@ -5,6 +5,10 @@ date: 2021-04-12 16:12:49 UTC
 updated: 2021-04-12 16:12:49 UTC
 comments: false
 categories: cqrs dax dynamodb eventsourcing eventstore
+cover-img: https://www.antevenio.com/wp-content/uploads/2015/04/que-es-el-performance-marketing-1.jpg
+thumbnail-img: https://www.antevenio.com/wp-content/uploads/2015/04/que-es-el-performance-marketing-1.jpg
+share-img: https://www.antevenio.com/wp-content/uploads/2015/04/que-es-el-performance-marketing-1.jpg
+tags: []
 ---
 
 ## Introduction to Event Sourcing and CQRS
