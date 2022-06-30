@@ -5,9 +5,11 @@ date: 2020-12-13 22:30:14 UTC
 updated: 2020-12-13 22:30:14 UTC
 comments: false
 categories: .net core 2020 Amazon AWS AWS lambda Backup ElasticSearch
+cover-img: https://1.bp.blogspot.com/-vJNWwJ_H_iA/X9aSnSQIY3I/AAAAAAAAGZs/CidKLUKxeFkEYaxkCMlt_cmYgUuIVkHKgCLcBGAsYHQ/s1200/aws-elasticsearch-1200x487.jpg
+thumbnail-img: https://1.bp.blogspot.com/-vJNWwJ_H_iA/X9aSnSQIY3I/AAAAAAAAGZs/CidKLUKxeFkEYaxkCMlt_cmYgUuIVkHKgCLcBGAsYHQ/s1200/aws-elasticsearch-1200x487.jpg
+share-img: https://1.bp.blogspot.com/-vJNWwJ_H_iA/X9aSnSQIY3I/AAAAAAAAGZs/CidKLUKxeFkEYaxkCMlt_cmYgUuIVkHKgCLcBGAsYHQ/s1200/aws-elasticsearch-1200x487.jpg
+tags: []
 ---
-
-[![](https://1.bp.blogspot.com/-vJNWwJ_H_iA/X9aSnSQIY3I/AAAAAAAAGZs/CidKLUKxeFkEYaxkCMlt_cmYgUuIVkHKgCLcBGAsYHQ/w640-h261/aws-elasticsearch-1200x487.jpg)](https://1.bp.blogspot.com/-vJNWwJ_H_iA/X9aSnSQIY3I/AAAAAAAAGZs/CidKLUKxeFkEYaxkCMlt_cmYgUuIVkHKgCLcBGAsYHQ/s1200/aws-elasticsearch-1200x487.jpg)
 
 Introduction
 

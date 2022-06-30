@@ -5,9 +5,11 @@ date: 2021-04-04 13:58:30 UTC
 updated: 2021-04-04 13:58:30 UTC
 comments: false
 categories: architecture frontend micro-frontends react single-spa spa
+cover-img: https://1.bp.blogspot.com/-RgWJcBmk7hg/YDQVP92nC6I/AAAAAAAAGcs/IxcU2ZG2BKcicXjWvCZaC81ZsTk1fK2LgCLcBGAsYHQ/s563/microfrontends.png
+thumbnail-img: https://1.bp.blogspot.com/-RgWJcBmk7hg/YDQVP92nC6I/AAAAAAAAGcs/IxcU2ZG2BKcicXjWvCZaC81ZsTk1fK2LgCLcBGAsYHQ/s563/microfrontends.png
+share-img: https://1.bp.blogspot.com/-RgWJcBmk7hg/YDQVP92nC6I/AAAAAAAAGcs/IxcU2ZG2BKcicXjWvCZaC81ZsTk1fK2LgCLcBGAsYHQ/s563/microfrontends.png
+tags: []
 ---
-
-[![](https://1.bp.blogspot.com/-RgWJcBmk7hg/YDQVP92nC6I/AAAAAAAAGcs/IxcU2ZG2BKcicXjWvCZaC81ZsTk1fK2LgCLcBGAsYHQ/w400-h223/microfrontends.png)](https://1.bp.blogspot.com/-RgWJcBmk7hg/YDQVP92nC6I/AAAAAAAAGcs/IxcU2ZG2BKcicXjWvCZaC81ZsTk1fK2LgCLcBGAsYHQ/s563/microfrontends.png)
 
 ## Introduction
 

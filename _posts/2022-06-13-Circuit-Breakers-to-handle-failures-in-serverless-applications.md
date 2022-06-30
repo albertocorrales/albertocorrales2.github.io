@@ -10,8 +10,6 @@ share-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZOGN3aYWr
 tags: [patterns, cloud, architecture]
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZOGN3aYWrYSj2dsJTAfkJQjzSy5j-a193lyFL38ncVKZq1IX4qy6N_Ytcb3UPmS9V-vOdD-uEHi8y_MdluudqigLLJnR2iJYvNc9U3EBLZPYZvmFF5jgAFckno3cvf8drdmSwK77I7xkSVJ34C5sqjcvgI8ZQoDDdnpD_0p87YxiqQT7lDZnrWQyw/s320/417YXoqgNML._AC_SX466_.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZOGN3aYWrYSj2dsJTAfkJQjzSy5j-a193lyFL38ncVKZq1IX4qy6N_Ytcb3UPmS9V-vOdD-uEHi8y_MdluudqigLLJnR2iJYvNc9U3EBLZPYZvmFF5jgAFckno3cvf8drdmSwK77I7xkSVJ34C5sqjcvgI8ZQoDDdnpD_0p87YxiqQT7lDZnrWQyw/s466/417YXoqgNML._AC_SX466_.jpg)
-
 ## Introduction
 
 When you are developing micro-services, you might find that there might be some dependencies which could fail or be temporary unavailable. Examples of these dependencies are calls to other services, data stores, etc. These dependencies might be unavailable for multiple reasons such as maintenance, throttling, etc.

@@ -5,9 +5,11 @@ date: 2021-08-16 21:50:23 UTC
 updated: 2021-08-16 21:50:23 UTC
 comments: false
 categories:
+cover-img: https://1.bp.blogspot.com/-Bgn9oR5De90/YRrP9H1FIwI/AAAAAAAAGkw/acSGNR5kD60Ohp9BevGkrYwpntQGH9LUwCLcBGAsYHQ/w521-h259/Page-Illo_Prevent.9a440a3b5794ae42ee42d76dd98f30a7e152629e.png
+thumbnail-img: https://1.bp.blogspot.com/-Bgn9oR5De90/YRrP9H1FIwI/AAAAAAAAGkw/acSGNR5kD60Ohp9BevGkrYwpntQGH9LUwCLcBGAsYHQ/w521-h259/Page-Illo_Prevent.9a440a3b5794ae42ee42d76dd98f30a7e152629e.png
+share-img: https://1.bp.blogspot.com/-Bgn9oR5De90/YRrP9H1FIwI/AAAAAAAAGkw/acSGNR5kD60Ohp9BevGkrYwpntQGH9LUwCLcBGAsYHQ/w521-h259/Page-Illo_Prevent.9a440a3b5794ae42ee42d76dd98f30a7e152629e.png
+tags: [aws, security, iam, mfa]
 ---
-
-[![](https://1.bp.blogspot.com/-Bgn9oR5De90/YRrP9H1FIwI/AAAAAAAAGkw/acSGNR5kD60Ohp9BevGkrYwpntQGH9LUwCLcBGAsYHQ/w521-h259/Page-Illo_Prevent.9a440a3b5794ae42ee42d76dd98f30a7e152629e.png)](https://1.bp.blogspot.com/-Bgn9oR5De90/YRrP9H1FIwI/AAAAAAAAGkw/acSGNR5kD60Ohp9BevGkrYwpntQGH9LUwCLcBGAsYHQ/s1146/Page-Illo_Prevent.9a440a3b5794ae42ee42d76dd98f30a7e152629e.png)
 
 ## Introduction
 
